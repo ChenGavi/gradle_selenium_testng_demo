@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="logInTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-03T22:57:09" hostname="DESKTOP-9B9M95V" time="14.086">
+  <properties/>
+  <testcase name="Logintest" classname="logInTest" time="14.086"/>
+  <system-out><![CDATA[Google
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 26205
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Nov. 03, 2020 5:57:12 P.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
